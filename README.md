@@ -1,2 +1,2 @@
-# Infografiche_Istat
-Repositorio de datos para el talent infografiche del Istat
+# Talent per infografiche e infografici di ogni eta'
+* Le creazioni, che contengano un numero o cinquanta, che siano dipinte o elaborate con software di grafica, verranno esposte in una galleria virtuale dedicata. Le più sorprendenti, le più ispirate, le più originali, le più spiritose, le più poetiche, le più rigorose saranno premiate e festeggiate con gli autori in un evento live durante la Conferenza!
